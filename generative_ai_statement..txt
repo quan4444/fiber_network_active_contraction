@@ -1,0 +1,1 @@
+I used ChatGPT-o4 alongside co-pilot to help with cleaning up the code. I also used predictive coding to aid with the more obvious codes.
