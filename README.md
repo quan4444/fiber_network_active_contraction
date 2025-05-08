@@ -9,7 +9,8 @@ The goal of this repository is to model the contraction phase during the wound h
 * [Morphoelastic Rod Theory](#morph)
 * [Validating a Single Beam Active Contraction](#single)
 * [Validating a Constrained Single Beam Active Contraction](#constrained)
-* [Skills used from class](#skills)
+* [ME 700 Applied Skills](#skills)
+* [Reproducibility](#rp)
 
 
 ## Installation Instructions <a name="install"></a>
@@ -168,5 +169,8 @@ The implementation and validation of a single beam, fixed on the left end, and u
 The implementation and validation of a single beam, constrained on both ends, and undergoing active contraction can be found in ``tutorials/constrained_single_line_active_contraction.ipynb``.
 
 
-## Skills used from class <a name="install"></a>
-For this final project, the skills I used from class are: implementation of mechanic problems in FEniCSx, validating FEM solution against analytical solution, setting up GitHub repositories, organize and test files based on Test-Driven Development, meshing.
+## ME 700 Applied Skills <a name="install"></a>
+For this final project, the skills I used from class are: implementation of mechanic problems in FEniCSx, validating FEM solution against analytical solution, setting up a GitHub repository, organize and test codes based on Test-Driven Development, meshing, debugging by checking for different types of errors.
+
+## Reproducibility <a name="rp"></a>
+The two main codes (``tutorials/single_line_active_contraction.ipynb``, ``tutorials/constrained_single_line_active_contraction.ipynb``) can be run on the SCC. The code should output results that match the analytical solutions. 
