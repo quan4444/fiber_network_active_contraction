@@ -169,4 +169,4 @@ The implementation and validation of a single beam, constrained on both ends, an
 
 
 ## Skills used from class <a name="install"></a>
-For this final project, the skills I used from class are: implementation of mechanic problems in FEniCSx, validating FEM solution against analytical solution, setting up GitHub repositories, organize files based on Test-Driven Development, meshing.
+For this final project, the skills I used from class are: implementation of mechanic problems in FEniCSx, validating FEM solution against analytical solution, setting up GitHub repositories, organize and test files based on Test-Driven Development, meshing.
